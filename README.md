@@ -1,5 +1,7 @@
 # Snake Game
 
+<img src="./images/snake.jpg" alt="frame do jogo snake" width="500" />
+
 ## Resumo
 
 Snake é um jogo conhecido internacionalmente, possuindo diversas variações de implementação e presente em diversas plataformas. O projeto atual teve como objetivo implementar uma versão desse tão aclamado jogo no microcontrolador MSP430F5529, da Texas Instruments.
@@ -14,3 +16,5 @@ A implementação do jogo Snake neste projeto foi feita utilizando a linguagem d
 - Potenciômetro 10kΩ
 - Protoboard
 - Jumpers
+
+<img src="./images/conexoes.png" alt="Conexões entre componentes" width="500" />
